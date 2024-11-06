@@ -1,10 +1,10 @@
 <?php
 
 //В переменную $token нужно вставить токен, который нам прислал @botFather
-$token = "7134715753:AAEbMDCBu5ob75baNTPTPdBISuu_7EEoRlQ";
+$token = "your_token_telegram_bot";
 
 //Сюда вставляем chat_id
-$chat_id = "682353587";
+$chat_id = "your_chat_id";
 
 //Определяем переменные для передачи данных из нашей формы
 $last = trim( $_POST['last']);
